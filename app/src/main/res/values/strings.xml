@@ -1,0 +1,9 @@
+<resources>
+      <string name="app_name">AuthFlow</string>
+
+      <!-- TODO: replace with YOUR OAuth 2.0 Web client ID from Google Cloud Console
+           (Credentials to OAuth 2.0 Client IDs to Web client, auto-created by Firebase
+           when you add Google Sign-In, or create manually). This is required for
+           Google Sign-In to work; the app will crash on Google Sign-In without it. -->
+      <string name="default_web_client_id" translatable="false">REPLACE_WITH_YOUR_WEB_CLIENT_ID.apps.googleusercontent.com</string>
+</resources>
